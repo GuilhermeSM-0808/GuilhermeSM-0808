@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">Softwares I have experience using:</h2>
+<h2 align="left">Softwares I have experience with:</h2>
 
 ###
 
